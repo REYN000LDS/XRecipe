@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.xrecetas">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.XRecetas">
+        <activity
+            android:name=".actualizar_perfil"
+            android:exported="false" />
+        <activity
+            android:name=".terminos_condiciones"
+            android:exported="false" />
+        <activity
+            android:name=".cercanos"
+            android:exported="false" />
+        <activity
+            android:name=".farmacias_cercanas"
+            android:exported="false" />
+        <activity
+            android:name=".centros_medicos_cercanos"
+            android:exported="false" />
+        <activity
+            android:name=".historial_recetas"
+            android:exported="false" />
+        <activity
+            android:name=".registrar_cuenta"
+            android:exported="false" />
+        <activity
+            android:name=".principal"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

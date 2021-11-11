@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">XRecetas</string>
+    <string name="correo">Ingrese su correo eletrónico</string>
+    <string name="contrasenia">Ingrese su contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="linkCrearCuenta">¿No tienes una cuenta? Regístrate</string>
+    <string name="usuario">Ingrese su usuario</string>
+    <string name="contrasenia2">Reingrese su contraseña</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="historial">Historial de Recetas</string>
+    <string name="centros">Centros Médicos Cercanos</string>
+    <string name="farmacias">Farmacias Cercanas</string>
+    <string name="cercanos">Cercanos</string>
+    <string name="terms">Términos y Condiciones</string>
+    <string name="cerrar">Cerrar Sesión</string>
+    <string name="perfil">Actualizar Perfil</string>
+    <string name="abrir_drawer">Open Navigation Drawer</string>
+    <string name="cerrar_drawer">Close Navigation Drawer</string>
+</resources>

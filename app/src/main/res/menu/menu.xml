@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op0"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/app_name"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/op1"
+        android:title="@string/historial" />
+    <item
+        android:id="@+id/op2"
+        android:title="@string/centros" />
+    <item
+        android:id="@+id/op3"
+        android:title="@string/farmacias" />
+    <item
+        android:id="@+id/op4"
+        android:title="@string/cercanos" />
+    <item
+        android:id="@+id/op5"
+        android:title="@string/terms" />
+    <item
+        android:id="@+id/op6"
+        android:title="@string/cerrar" />
+</menu>
