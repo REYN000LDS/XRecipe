@@ -99,5 +99,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="70dp"
         android:layout_marginRight="70dp"
+        android:onClick="registrar"
         android:text="@string/btnRegistrarse" />
 </LinearLayout>

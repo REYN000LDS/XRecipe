@@ -30,6 +30,102 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="155dp"
+                android:layout_marginTop="370dp"
+                android:text="@string/ofertas" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="140dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/recetasRecientes" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="209dp"
+                android:layout_height="194dp"
+                android:layout_marginLeft="100dp"
+                android:layout_marginTop="100dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/qr" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="175dp"
+                android:layout_marginTop="400dp"
+                android:text="@string/ibuprofeno" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="300dp"
+                android:layout_marginTop="400dp"
+                android:text="@string/tapsin" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="400dp"
+                android:text="@string/paracetamol" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="116dp"
+                android:layout_height="109dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="450dp"
+                app:srcCompat="@drawable/paracetamol" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="280dp"
+                android:layout_marginTop="570dp"
+                android:text="@string/btnIr" />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160dp"
+                android:layout_marginTop="570dp"
+                android:text="@string/btnIr" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="570dp"
+                android:text="@string/btnIr" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="105dp"
+                android:layout_height="107dp"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="450dp"
+                app:srcCompat="@drawable/ibuprofeno" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="114dp"
+                android:layout_height="111dp"
+                android:layout_marginLeft="270dp"
+                android:layout_marginTop="450dp"
+                app:srcCompat="@drawable/tapsin" />
         </FrameLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
 

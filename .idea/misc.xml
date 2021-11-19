@@ -5,14 +5,16 @@
       <map>
         <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/drawable/background_degra.xml" value="0.2203125" />
         <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_actualizar_perfil.xml" value="0.1793478260869565" />
-        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_centros_medicos_cercanos.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_centros_medicos_cercanos.xml" value="0.21" />
+        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_centros_medicos_cercanos2.xml" value="0.18" />
         <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_cercanos.xml" value="0.13949275362318841" />
-        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_farmacias_cercanas.xml" value="0.13949275362318841" />
-        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_historial_recetas.xml" value="0.17481884057971014" />
-        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_farmacias_cercanas.xml" value="0.21" />
+        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_farmacias_cercanas2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_historial_recetas.xml" value="0.2" />
+        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_principal.xml" value="0.18" />
         <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_registrar_cuenta.xml" value="0.25" />
-        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_terminos_condiciones.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/activity_terminos_condiciones.xml" value="0.19" />
         <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/header.xml" value="0.1793478260869565" />
         <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/DUVAN/AndroidStudioProjects/XRecetas/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />

@@ -21,6 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:clickable="true"
+        android:onClick="actualizarFoto"
         android:text="@string/perfil"
         app:layout_constraintEnd_toEndOf="@+id/imageView2"
         app:layout_constraintStart_toStartOf="@+id/imageView2"
